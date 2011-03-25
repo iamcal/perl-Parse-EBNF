@@ -131,7 +131,7 @@ Parses a number of rule lines.
 
 =item C<rules()>
 
-Returns an arrayref of Parse::EBNF::Rule objects.
+Returns a hashref of Parse::EBNF::Rule objects.
 
 =item C<dump_rules()>
 
